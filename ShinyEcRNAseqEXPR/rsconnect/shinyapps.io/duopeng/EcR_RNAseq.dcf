@@ -1,0 +1,12 @@
+name: EcR_RNAseq
+title: EcR_RNAseq
+username:
+account: duopeng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2154499
+bundleId: 3082659
+url: https://duopeng.shinyapps.io/EcR_RNAseq/
+when: 1588185197.7752
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: ShinyEcRNAseqDEG_and_GO
+title: ShinyEcRNAseqDEG_and_GO
+username:
+account: duopeng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2195967
+bundleId: 3156356
+url: https://duopeng.shinyapps.io/ShinyEcRNAseqDEG_and_GO/
+when: 1589666439.03024
+asMultiple: FALSE
+asStatic: FALSE
