@@ -1,6 +1,6 @@
 #Shiny app for EcR RNA seq dataset (Catteruccia lab)
 #This tool can perform Differential Expressed Gene (DEG) Analysis and GO Enrichemnt Analysis
-#version 3 (2020-5-25)
+#version 3.3 (2023-7-17), Dropped Entrez in the BiomaRt request to avoid an erroor 
 #by Duo Peng
 
 library(BiocManager) #needed for deployment at Shinapp.io
