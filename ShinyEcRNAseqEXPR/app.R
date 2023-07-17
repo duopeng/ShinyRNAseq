@@ -1,6 +1,6 @@
 #Shiny app for the EcR RNA seq dataset (Catteruccia lab)
 #This tool can retrieve FPKM and TPM data and make plots
-#version 3 (2020-5-25)
+#version 3.3 (2023-7-17), Dropped Entrez in the BiomaRt request to avoid an erroor 
 #by Duo Peng
 
 
